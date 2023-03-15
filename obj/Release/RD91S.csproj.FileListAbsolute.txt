@@ -1,0 +1,13 @@
+D:\Users\Administrator\Documents\C#Project\RD91S\bin\Release\RD91S.exe.config
+D:\Users\Administrator\Documents\C#Project\RD91S\bin\Release\RD91S.exe.manifest
+D:\Users\Administrator\Documents\C#Project\RD91S\bin\Release\RD91S.application
+D:\Users\Administrator\Documents\C#Project\RD91S\bin\Release\RD91S.exe
+D:\Users\Administrator\Documents\C#Project\RD91S\bin\Release\RD91S.pdb
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.csproj.SuggestedBindingRedirects.cache
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.exe.manifest
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.application
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.csproj.CopyComplete
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.exe
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.pdb
+D:\Users\Administrator\Documents\C#Project\RD91S\obj\Release\RD91S.csproj.AssemblyReference.cache

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ac44e59-1cdf-4dfd-8905-ad27da53b04e": {
+      "ProjectGuid": "0ac44e59-1cdf-4dfd-8905-ad27da53b04e",
+      "DisplayName": "RD91S",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "e802e2a1-ae70-4ff0-ad3e-d0cbd2493dd6": {
+      "ProjectGuid": "e802e2a1-ae70-4ff0-ad3e-d0cbd2493dd6",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "f3454be6-d384-473b-b5cd-941f89d05c5e": {
+      "ProjectGuid": "f3454be6-d384-473b-b5cd-941f89d05c5e",
+      "DisplayName": "RD91SForm",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
